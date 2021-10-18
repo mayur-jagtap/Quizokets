@@ -1,5 +1,6 @@
 # Online Quiz Game With Friends
 
+![Quizokets Logo](https://github.com/mayur-jagtap/Quizokets/blob/master/public/img/quiz.png)
 Room Chat Application + Quiz Game with Socket.io, Nodejs and ExpressJS
 
 Clone Like <a href="https://skribbl.io" target="_blank">Skribble.io</a>
